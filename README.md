@@ -1,6 +1,6 @@
 ## Hi👋! I'm Bhavesh Patil  🙋‍
 
-- 🌱 I'm pursuing B. Tech. Third Year in VIIT, Pune
+- 🌱 I'm pursuing B. Tech. in VIIT, Pune
 - 🔭 I’m currently working as Freelancer
 - 👨‍💻 ***#SelfTaughtAndroid*** Developer.
 - 📱 Mobile App developer.
